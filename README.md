@@ -18,7 +18,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
+<h2 >⚒️ Languages-Frameworks-Tools </h2><br>
 <table align="center"> 
  <tr>
   <td>
