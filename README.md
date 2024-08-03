@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedansh+Maheshwari!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bengaluru, India</h3>
+<h3 align="center">A passionate software developer from Bengaluru, India!!</h3><br>
 <div align="left">
  
  -🔭 I’m currently working on **a marketplace**
@@ -45,13 +45,13 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=python,java,c&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=c,java,javascript&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=linux,qt,androidstudio&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=vscode">
   </td>
  </tr>
  <tr>
