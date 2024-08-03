@@ -3,11 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedansh+Maheshwari!;" />
 </h1>
 
-<h3 align="left">A passionate software developer from Bengaluru, India</h3>
-
-<br/>
-
-<div align="left">
+<h3 align="center">A passionate software developer from Bengaluru, India</h3>
+<div align="center">
  
  🔭 I’m currently working on **a marketplace**
  
@@ -34,12 +31,52 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,react,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,nodejs,express,mongodb,nextjs,mysql" /><br>
-</div>
-<hr/>
+<table align="center"> 
+ <tr>
+  <td>
+   <strong>Programming Languages</strong>
+  </td>
+  <td>
+   <strong>Data Science & Machine Learning</strong>
+  </td>
+  <td>
+   <strong>Software Development & Tools</strong>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=python,java,c&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=linux,qt,androidstudio&theme=dark">
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <strong>Web Development (Front End)</strong>
+  </td>
+  <td>
+   <strong>Web Development (Back End)</strong>
+  </td>
+  <td>
+   <strong>Version Control & Miscellaneous</strong>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=html,css,react&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=git,github,bash&theme=dark">
+  </td>
+ </tr>
+</table>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
