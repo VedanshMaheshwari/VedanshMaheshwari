@@ -65,6 +65,7 @@
   </td>
  </tr>
 </table>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -74,7 +75,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VedanshMaheshwari/VedanshMaheshwari/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
