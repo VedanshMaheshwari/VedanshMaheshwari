@@ -87,7 +87,9 @@
   <img src="https://streak-stats.demolab.com?user=VedanshMaheshwari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="170" alt="streak graph"/>
 </div>
 <hr/>
+
 ## 🔗 Connect with Me
+
 <div align="center"> 
   <a href="mailto:vedanshm15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
