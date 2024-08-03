@@ -4,15 +4,15 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Bengaluru, India</h3>
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+ -🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Backend Development**
+ -🌱 I’m currently learning **Backend Development**
+ 
+ -💬 Ask me about **Node.js, React... or anything [here](https://github.com/VedanshMaheshwari/VedanshMaheshwari)**
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/VedanshMaheshwari/VedanshMaheshwari)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ -⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
