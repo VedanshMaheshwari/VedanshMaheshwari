@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VedanshMaheshwari.VedanshMaheshwari" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedansh+Maheshwari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Vedansh+Maheshwari!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Bengaluru, India!!</h3><br>
@@ -39,7 +39,7 @@
    <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=vscode">
+   <img src = "https://skillicons.dev/icons?i=vscode,intellij,vercel">
   </td>
  </tr>
  <tr>
