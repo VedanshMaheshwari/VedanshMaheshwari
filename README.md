@@ -39,7 +39,7 @@
    <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=vscode,intellij,vercel">
+   <img src = "https://skillicons.dev/icons?i=vscode,vercel">
   </td>
  </tr>
  <tr>
@@ -67,8 +67,8 @@
 </table>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div>
+  <h2>🐍 My Contributions </h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedanshMaheshwari/VedanshMaheshwari/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//VedanshMaheshwari/VedanshMaheshwari/github-contribution-grid-snake.svg">
@@ -80,7 +80,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedanshMaheshwari&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/>
