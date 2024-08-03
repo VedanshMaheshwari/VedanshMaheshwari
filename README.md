@@ -10,7 +10,7 @@
  
  -🌱 I’m currently learning **Backend Development**
  
- -💬 Ask me about **Node.js, React... or anything [here](https://github.com/VedanshMaheshwari/VedanshMaheshwari)**
+ -💬 Ask me about **Node.js, React... or anything [here](https://www.linkedin.com/in/vedanshmaheshwari297/)**
 
  -⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
