@@ -15,22 +15,10 @@
  -⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:vedanshm15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/vedanshmaheshwari297" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://VedanshMaheshwari.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
 <table align="center"> 
  <tr>
   <td>
@@ -97,9 +85,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VedanshMaheshwari&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=VedanshMaheshwari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="170" alt="streak graph"/>
 </div>
+<hr/>
 
-<br/><br/>
-
+<div align="center"> 
+  <a href="mailto:vedanshm15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/vedanshmaheshwari297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://VedanshMaheshwari.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 <hr/>
 <!--
 <br/>
