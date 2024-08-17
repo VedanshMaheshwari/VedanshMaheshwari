@@ -12,10 +12,11 @@
  
  -💬 Ask me about **Node.js, React... or anything [here](https://www.linkedin.com/in/vedanshmaheshwari297/)**
 
+ -🚀 Crafting code, one byte at a time. 
+
  -⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
-
  <hr/>
  
 <h2 >⚒️ Languages-Frameworks-Tools </h2><br>
