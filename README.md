@@ -4,6 +4,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Bengaluru, India!!</h3><br>
+
 <div align="left">
  
  -🔭 I’m currently working on **a marketplace**
