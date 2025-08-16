@@ -35,7 +35,7 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=c,java,javascript&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=c,c++,java,javascript&theme=dark">
   </td>
   <td>
    <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
