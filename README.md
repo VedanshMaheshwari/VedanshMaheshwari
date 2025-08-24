@@ -60,7 +60,7 @@
    <img src = "https://skillicons.dev/icons?i=html,css,react&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=dark">
   </td>
   <td>
    <img src = "https://skillicons.dev/icons?i=git,github,bash&theme=dark">
