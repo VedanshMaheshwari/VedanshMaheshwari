@@ -41,7 +41,7 @@
    <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=vscode,vercel">
+   <img src = "https://skillicons.dev/icons?i=vscode,cursor,vercel">
   </td>
  </tr>
  <tr>
