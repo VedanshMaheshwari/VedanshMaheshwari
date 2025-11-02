@@ -38,10 +38,10 @@
    <img src = "https://skillicons.dev/icons?i=c,cpp,java,javascript&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=vscode,vercel">
+   <img src = "https://skillicons.dev/icons?i=vscode,postman,npm,vercel">
   </td>
  </tr>
  <tr>
