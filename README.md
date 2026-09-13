@@ -7,7 +7,7 @@
 
 <div align="left">
  
- -🔭 I’m currently working on **a NetflixGPT**
+ -🔭 I’m currently working on **Distributed Systems**
  
  -🌱 I’m currently learning **Backend Development**
  
